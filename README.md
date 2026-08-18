@@ -14,20 +14,23 @@ The visual language is **land survey**: aerial photography annotated with survey
 
 Positioning throughout: **the man, not the brand.** Owner's perspective, answers his own phone, knows two markets properly.
 
+**Scope (Aug 2026 update):** commercial **and** agricultural specialist working **across South Africa**, based in the Western Cape. Regional history (Winelands, Lowveld) is kept as credibility, not as the limit of where he works.
+
 ## What's real vs. what needs confirming
 
 | Item | Status |
 |---|---|
 | All bio copy, career history, regions, family details | From Mike's own bio document |
 | Mobile 082 906 7004 (call + WhatsApp links) | From his own published advert — **verify before launch** |
-| Photography | His own files: Malmesbury farm aerial (hero), Winelands aerial, Malelane lodge home, portrait, personal photos |
+| Photography | **No former-brokerage properties.** Hero, portrait and desk shots supplied by Nathi (Aug 2026); agricultural + commercial cards generated generically; bush/family photos are Mike's own |
 | **Email `mike@mikedodds.co.za`** | **PLACEHOLDER — domain not registered.** Replace in `index.html` (marked with a TODO comment) |
-| No agency branding anywhere | Sotheby's logo bar cropped out of the portrait; footer carries an explicit non-affiliation statement |
+| No agency branding anywhere | Every image that showed a property he marketed under the previous brokerage has been retired to `_retired assets/`; footer carries an explicit non-affiliation statement |
 
 ## Deliberate omissions
 
 - **No listings section.** Nothing on the site claims a sale, a price or a testimonial — everything stated is verifiable from his bio. Add real listings/testimonials once approved.
-- **No new-company mention.** Chriev Properties appears nowhere, per the brief.
+- **No new-company mention.** The new brokerage appears nowhere, per the brief.
+- **Retired images** live in `_retired assets/` — not deleted, but not referenced by the site.
 - Photos of properties are used as *illustrations of property type*, with no price or status attached.
 
 ## To put it live
